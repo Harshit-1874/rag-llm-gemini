@@ -3,6 +3,8 @@ langchain
 langchain-community
 langchain-google-genai
 langchain-chroma
-chromadb
+chroma-hnswlib==0.7.3
+chromadb==0.5.3
+sqlite3
 pypdf
 python-dotenv
